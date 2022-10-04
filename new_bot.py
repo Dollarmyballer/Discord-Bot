@@ -131,6 +131,6 @@ async def queue(ctx,url):
     
 
 
-client.run('OTI4MDg4MDE1MjgzMzA2NTM3.YdTrUQ.lRHKuxt_pHhMHg05vFTY4T6CS6Q')
+client.run()
 
 
