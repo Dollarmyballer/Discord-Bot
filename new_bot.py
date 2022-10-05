@@ -131,6 +131,6 @@ async def queue(ctx,url):
     
 
 
-client.run()
+client.run() #Normaly a token would be inside the parenthese but it was removed due to privacy. 
 
 
